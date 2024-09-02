@@ -8,9 +8,10 @@ For functional copies of classic plugins, please look to official Creator Store
 distributions by Studio Elttob.
 
 ## Licensing
-
-Classic Suite plugins in this repository are licensed under MIT + Commons Clause.
+Code in this repository is licensed under MIT + Commons Clause.
 
 Please note this license does *not* permit trademark usage, e.g.:
 - Elttob, Studio Elttob, Elttob Suite
 - Reclass, Elttob Reclass Reclass classic
+
+The license of this repository does not extend to assets outside of this repository.
